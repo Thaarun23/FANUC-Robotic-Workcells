@@ -110,6 +110,5 @@ These files were essential in building accurate simulations and validating robot
 - **Software**: Part detection logic, container full checks
 - **Mechanical**: Clear operator space, emergency stop
 
----
-
-## 🎥 Final Demo Video – Palletizing Task
+**SIMULATION DEMO**
+https://youtu.be/HtHMpM1ij84
